@@ -5,8 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-asikul-hossain-shofol-439819179/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63502805/182222316-f0459e56-cc76-428a-9ed6-8c7f3de6507c.png
-" alt="https://www.linkedin.com/in/md-asikul-hossain-shofol-439819179/" height="30" width="40" color="#fff"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-asikul-hossain-shofol-439819179/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1659380783~hmac=84b59be6a472a46a8786601ffdb6dc0b" alt="https://www.linkedin.com/in/md-asikul-hossain-shofol-439819179/" height="30" width="40" color="#fff"/></a>
 <a href="https://fb.com/asikul.sofol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="asikul.sofol" height="30" width="40" /></a>
 </p>
 
