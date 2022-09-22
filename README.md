@@ -1,13 +1,31 @@
-<h1 align="center">Hi 👋, I'm Md Ashikul Hossain Shofol</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, my name is Ashikul Shafol
+#### Web developer and Wordpress expert
+![Web developer and Wordpress expert](https://media-exp1.licdn.com/dms/image/C5616AQGOA6IXpX7hxg/profile-displaybackgroundimage-shrink_350_1400/0/1663010314115?e=1669248000&v=beta&t=EmKVzTTlfn_o5FcrtgxIFIae8oFT8SWDEckaIqhiIOU)
 
-- 📫 How to reach me **18103156@iubat.edu**
+I am a passionate web developer and WordPress expert with 4 years of experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-asikul-hossain-shofol-439819179/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1051/1051282.png?w=996&t=st=1659534150~exp=1659534750~hmac=dfb87fcffd63fbfe81ab67f3fff80ed0b444c815d1fa4a01baa2f8db0a97d784" alt="https://www.linkedin.com/in/md-asikul-hossain-shofol-439819179/" height="30" width="30" color="#fff"/></a>
-<a href="https://fb.com/asikul.sofol" target="blank"><img align="center" src="https://img.freepik.com/free-icon/facebook-link_318-10348.jpg?w=1060&t=st=1663096187~exp=1663096787~hmac=f3c8cdf20391604fcae144cd26637c98c0c3ce9872e156d037265b8a62ba742e" alt="asikul.sofol" height="30" width="30" /></a>
-</p>
+Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on fiverr 
+- 🌱 I’m currently learning Vue Js 
+- 💬 Ask me about Web development 
+- 📫 How to reach me: https://shofoll.com/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shofol1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashikul-shafol//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/AshikulShafol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ashikulshafol//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AshikulShafol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/AshikulShafol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11038976/ashikul-shafol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCgG1tL5mWCWu2xEhkA_hiRQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shofoll.com/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shofol1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofol1)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shofol1&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shofol1)  
+
+![GitHub metrics](https://metrics.lecoq.io/shofol1)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shofol1)  
+
+![Profile views](https://gpvc.arturio.dev/shofol1)  
