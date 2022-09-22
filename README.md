@@ -1,6 +1,8 @@
+![Web developer and Wordpress expert](https://media-exp1.licdn.com/dms/image/C5616AQGOA6IXpX7hxg/profile-displaybackgroundimage-shrink_350_1400/0/1663010314115?e=1669248000&v=beta&t=EmKVzTTlfn_o5FcrtgxIFIae8oFT8SWDEckaIqhiIOU)
+
 ### Hi there 👋, my name is Ashikul Shafol
 #### Web developer and Wordpress expert
-![Web developer and Wordpress expert](https://media-exp1.licdn.com/dms/image/C5616AQGOA6IXpX7hxg/profile-displaybackgroundimage-shrink_350_1400/0/1663010314115?e=1669248000&v=beta&t=EmKVzTTlfn_o5FcrtgxIFIae8oFT8SWDEckaIqhiIOU)
+
 
 I am a passionate web developer and WordPress expert with 4 years of experience
 
