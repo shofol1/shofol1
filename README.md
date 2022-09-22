@@ -8,6 +8,8 @@ I am a passionate web developer and WordPress expert with 4 years of experience
 
 Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
 - 🔭 I’m currently working on fiverr 
 - 🌱 I’m currently learning Vue Js 
 - 💬 Ask me about Web development 
@@ -23,7 +25,7 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 <a href="https://instagram.com/https://www.instagram.com/ashikulshafol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashikulshafol/" height="30" width="40" /></a>
 </p> 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shofol1&show_icons=true&count_private=true)  
 
