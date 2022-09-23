@@ -11,7 +11,7 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 - 🔭 I’m currently working on fiverr 
-- 🌱 I’m currently learning Vue Js 
+- 🌱 I’m currently learning React Native 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: https://shofoll.com/ 
 
