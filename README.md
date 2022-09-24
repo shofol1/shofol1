@@ -35,7 +35,6 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
 ![Profile views](https://gpvc.arturio.dev/shofol1)  
 
-# 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=shofol1&color=black)
+ <img src="https://activity-graph.herokuapp.com/graph?username=shofol1&theme=react-dark" />
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
