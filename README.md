@@ -29,10 +29,13 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shofol1&show_icons=true&count_private=true)  
 
- <img src="https://activity-graph.herokuapp.com/graph?username=shofol1&theme=xcode" />
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shofol1)  
 
 ![Profile views](https://gpvc.arturio.dev/shofol1)  
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=shofol1&theme=xcode" />
