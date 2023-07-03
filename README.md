@@ -38,4 +38,4 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
 
 
- [![Shafol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shofol1)](https://github.com/shofol1/github-readme-activity-graph)
+ [![Shafol's github activity graph](https://github-readme-activity-graph.react-dark.app/graph?username=shofol1)](https://github.com/shofol1/github-readme-activity-graph)
