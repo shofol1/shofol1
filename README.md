@@ -11,7 +11,7 @@ Skills:  REACT / MongoDB / Express JS /Node JS/ Tailwind CSS / React Bootstrap /
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 - 🔭 I’m currently working on Implevista as a Junior Software Developer (MERN Stack) 
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning Typescript in depth
 - 💬 Ask me about Web development 
 - 📫 How to reach me: https://ashikulhshafol.com/ 
 
