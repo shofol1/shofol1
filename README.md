@@ -32,7 +32,7 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shofol1)  
 
-![Profile views](https://gpvc.arturio.dev/shofol1)  
+![](https://komarev.com/ghpvc/?username=your-github-shofol1)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
