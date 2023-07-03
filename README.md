@@ -10,10 +10,10 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on fiverr 
-- 🌱 I’m currently learning React Native 
+- 🔭 I’m currently working on Implevista as Junior Software Developer (MERN Stack) 
+- 🌱 I’m currently learning Typescript 
 - 💬 Ask me about Web development 
-- 📫 How to reach me: https://shofoll.com/ 
+- 📫 How to reach me: https://ashikulhshafol.com/ 
 
 
 <h3 align="left">Connect with me:</h3>
