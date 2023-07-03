@@ -38,4 +38,4 @@ Skills:  REACT / JS / HTML / CSS/ExpressJs/MongoDB/WordPress
 
 
 
- <img src="https://activity-graph.herokuapp.com/graph?username=shofol1&theme=xcode" />
+ [![Shafol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shofol1)](https://github.com/shofol1/github-readme-activity-graph)
