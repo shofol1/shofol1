@@ -1,12 +1,23 @@
 ![Web developer and Wordpress expert](https://media.licdn.com/dms/image/v2/D5616AQGcgisEskOARA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739022588568?e=1756944000&v=beta&t=jF8p3z9dXTfS7evWc-CtcgRtJLgIf83Cy3ZYyHCvCiM)
 
 ### Hi there 👋, my name is Ashikul Shafol
-#### Software Engineer
+### 💡 About Me
+- 👨‍💻 **Software Engineer** experienced in **Web, Mobile, and Cloud solutions**  
+- 🌱 Current Focus: **Cloud Computing (GCP), Full-stack (MERN), Hybrid Mobile (Ionic/Angular)**  
+- 🚀 Passionate about **scalable apps, modern UI/UX, and open-source contributions**  
+- ⚡ Fun fact: *I love building tools that make life easier!*
 
+---
 
-I am a passionate web developer and WordPress expert with 4 years of experience
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ionic,react,nodejs,express,mongodb,firebase,gcp,ts,tailwind,wordpress,js,html,css" />
+</p>
 
-Skills:  REACT / MongoDB / Express JS /Node JS/ Tailwind CSS / React Bootstrap / Typescript / WordPress
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> &nbsp;
+  <img src="https://img.shields.io/badge/React%20Bootstrap-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+</p>
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
