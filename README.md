@@ -6,7 +6,7 @@
 <div align="center" style="font-size: medium; color: #00ffe5;">
 
   <!-- Typing SVG animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00FFE5&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+I'm+Amir+%F0%9F%91%8B;A+Passionate+Software+Engineer+%F0%9F%A4%96;Coding+Future+From+Bangladesh+🌏" alt="Typing Animation" width="800" height="60"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00FFE5&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+I'm+ASHIKUL SHAFOL+%F0%9F%91%8B;A+Passionate+Software+Engineer+%F0%9F%A4%96;Coding+🌏" alt="Typing Animation" width="800" height="60"/>
 
   <!-- Cyberpunk style avatar -->
   <p align="center">
