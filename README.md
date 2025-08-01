@@ -1,4 +1,7 @@
-![Web developer and Wordpress expert](https://media.licdn.com/dms/image/v2/D5616AQGcgisEskOARA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739022588568?e=1756944000&v=beta&t=jF8p3z9dXTfS7evWc-CtcgRtJLgIf83Cy3ZYyHCvCiM)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F78C&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+a+Software+Engineer;Full+Stack+Developer;Cloud+%26+Firebase+Specialist;Always+Learning+New+Things" />
+</p>
+
 
 ### Hi there 👋, my name is Ashikul Shafol
 ### 💡 About Me
