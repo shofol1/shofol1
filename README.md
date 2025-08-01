@@ -52,7 +52,6 @@
 - 🔭 I’m currently working on Implevista as a Senior Software Engineer
 - 🌱 I’m currently learning Google Cloud Computing(GCP) and Mobile App Development in depth
 - 💬 Ask me about Web development 
-- 📫 How to reach me: https://ashikulhshafol.com/ 
 
 
 <h3 align="left">Connect with me:</h3>
