@@ -31,7 +31,7 @@
 ### Hi there 👋, my name is Ashikul Shafol
 ### 💡 About Me
 - 👨‍💻 **Software Engineer** experienced in **Web, Mobile, and Cloud solutions**  
-- 🌱 Current Focus: **Cloud Computing (GCP), Full-stack (MERN), Hybrid Mobile (Ionic/Angular)**  
+- 🌱 Current Focus: **Cloud Computing (GCP), Full-stack (MERN), Hybrid Mobile (Ionic/Angular/Flutter)**  
 - 🚀 Passionate about **scalable apps, modern UI/UX, and open-source contributions**  
 - ⚡ Fun fact: *I love building tools that make life easier!*
 
@@ -39,7 +39,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,firebase,gcp,ts,tailwind,wordpress,js,html,css,ionic" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,firebase,gcp,ts,tailwind,wordpress,js,html,css,flutter" />
 </p>
 
 <p align="center">
