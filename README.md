@@ -1,4 +1,4 @@
-![Web developer and Wordpress expert](https://media.licdn.com/dms/image/C5616AQGOA6IXpX7hxg/profile-displaybackgroundimage-shrink_350_1400/0/1663010314738?e=1726704000&v=beta&t=IV1dK1bIbPs8dUgpY9ZJcrUYmC_FAslqwBjnhpT8fKs)
+![Web developer and Wordpress expert](https://media.licdn.com/dms/image/v2/D5603AQG8TkN-tRP2fg/profile-displayphoto-shrink_800_800/B56Za1wpULGgAc-/0/1746806151003?e=1756944000&v=beta&t=3QU8Wp-U4lPj4eriSlK-SgEcEti0v_KHH9bATajCzN4)
 
 
 ### Hi there 👋, my name is Ashikul Shafol
