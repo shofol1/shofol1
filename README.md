@@ -49,8 +49,8 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on Implevista as a Junior Software Developer (MERN Stack) 
-- 🌱 I’m currently learning Typescript in depth
+- 🔭 I’m currently working on Implevista as a Senior Software Engineer
+- 🌱 I’m currently learning Google Cloud Computing(GCP) and Mobile App Development in depth
 - 💬 Ask me about Web development 
 - 📫 How to reach me: https://ashikulhshafol.com/ 
 
