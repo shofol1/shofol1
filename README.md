@@ -1,19 +1,25 @@
 <p align="center">
-  <!-- Top neon glow -->
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.gif" width="100%" height="120">
+  <!-- Elegant animated top divider -->
+  <img src="https://i.ibb.co/6w0xVbV/wave-header.gif" width="100%" height="120">
 </p>
 
 <div align="center" style="font-size: medium; color: #00ffe5;">
 
-  <!-- Typing SVG animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00FFE5&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+I'm+ASHIKUL SHAFOL+%F0%9F%91%8B;A+Passionate+Software+Engineer+%F0%9F%A4%96;Coding+🌏" alt="Typing Animation" width="800" height="60"/>
+  <!-- Typing SVG animation with clean font -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&height=60&lines=Hello%2C+I'm+ASHIKUL+SHAFOL+%F0%9F%91%8B;Passionate+Software+Engineer+%F0%9F%92%BB;Crafting+Clean+and+Scalable+Code+🌏" alt="Typing Animation" width="750" height="60"/>
 
-  <!-- Cyberpunk style avatar -->
+  <!-- Professional coding animation -->
   <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" style="border-radius: 15px;">
+    <img src="https://i.ibb.co/Lh0Wz9B/coding-laptop.gif" width="220px" style="border-radius: 20px;">
   </p>
 
 </div>
+
+<p align="center">
+  <!-- Elegant animated bottom divider -->
+  <img src="https://i.ibb.co/6w0xVbV/wave-header.gif" width="100%" height="120">
+</p>
+
 
 <p align="center">
   <!-- Bottom neon glow -->
