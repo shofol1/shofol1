@@ -1,11 +1,4 @@
 ![Web developer and Wordpress expert](https://media.licdn.com/dms/image/v2/D5616AQGcgisEskOARA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739022588568?e=1756944000&v=beta&t=jF8p3z9dXTfS7evWc-CtcgRtJLgIf83Cy3ZYyHCvCiM)
-<h1 align="center">
-  Hi there, I'm <a href="https://github.com/YOUR_USERNAME">YOUR NAME</a> 👋
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F78C&center=true&vCenter=true&width=500&lines=Passionate+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" />
-</p>
 
 ### Hi there 👋, my name is Ashikul Shafol
 #### Web developer and WordPress expert
