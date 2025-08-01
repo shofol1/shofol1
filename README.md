@@ -1,6 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F78C&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+a+Software+Engineer;Full+Stack+Developer;Cloud+%26+Firebase+Specialist;Always+Learning+New+Things" />
+  <!-- Top neon glow -->
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.gif" width="100%" height="120">
 </p>
+
+<div align="center" style="font-size: medium; color: #00ffe5;">
+
+  <!-- Typing SVG animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00FFE5&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+I'm+Amir+%F0%9F%91%8B;A+Passionate+Software+Engineer+%F0%9F%A4%96;Coding+Future+From+Bangladesh+🌏" alt="Typing Animation" width="800" height="60"/>
+
+  <!-- Cyberpunk style avatar -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" style="border-radius: 15px;">
+  </p>
+
+</div>
+
+<p align="center">
+  <!-- Bottom neon glow -->
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.gif" width="100%" height="120">
+</p>
+
 
 
 ### Hi there 👋, my name is Ashikul Shafol
